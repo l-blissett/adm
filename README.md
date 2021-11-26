@@ -1,11 +1,6 @@
-# *Anarchistic Decision Making*...
-
 <img src="./images/adm.png" alt="adm" style="zoom:50%;" />						
-
-
-
+# *Anarchistic Decision Making*...
 For my [NaNoGenMo 2021](https://github.com/NaNoGenMo/2021) commitment, i'm taking the original Text **"On Anarchism"** from Noam Chomsky from »[The Anachist Library](https://theanarchistlibrary.org/library/noam-chomsky-on-anarchism).
-
 # *...with a little help from Gertrude Stein*
 
 Today, many computational procedures for poetry analysis have implemented rules to bring poetry into "a strict form" < which means, to make out of the poetry, the more or less "free vocabulary" an "strict one". 
