@@ -4,9 +4,7 @@
 
 
 
-For my [NaNoGenMo 2021](https://github.com/NaNoGenMo/2021) commitment, i'm taking the original Text **"On Anarchism"** from Noam Chomsky from »[The Anachist Library](https://theanarchistlibrary.org/library/noam-chomsky-on-anarchism):
-
-<img src="./images/chomsky-on-anarchism.jpg" alt="n-c-noam-chomsky-on-anarchism-1.jpg" style="zoom:25%;" />
+For my [NaNoGenMo 2021](https://github.com/NaNoGenMo/2021) commitment, i'm taking the original Text **"On Anarchism"** from Noam Chomsky from »[The Anachist Library](https://theanarchistlibrary.org/library/noam-chomsky-on-anarchism).
 
 # *...with a little help from Gertrude Stein*
 
