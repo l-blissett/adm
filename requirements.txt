@@ -1,0 +1,5 @@
+spacy
+textblob
+nltk
+re
+random
