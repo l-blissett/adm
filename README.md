@@ -2,8 +2,6 @@
 
 # *Anarchistic Decision Making*...
 
-For my [NaNoGenMo 2021](https://github.com/NaNoGenMo/2021) commitment, i'm taking the original Text **"On Anarchism"** by Noam Chomsky from »[The Anachist Library](https://theanarchistlibrary.org/library/noam-chomsky-on-anarchism).
-
 ```python
 blob = TextBlob(chomsky_on_anarchism_chapter_1, analyzer=NaiveBayesAnalyzer())
 blob.sentiment
@@ -16,6 +14,10 @@ Sentiment(classification='pos', p_pos=1.0, p_neg=1.949023440656887e-146)
  noAm ChOMsKy   2013  1  RATheR wroTe  ON   A     hENCe iNEvItAbly CONsIDErS  wRoTe      Has    LiKE    —InCLUDInG  NoTED  WHOsE  arE        couLd not HAve dONe bEttEr[1]  hAvE. BeeN     AnD   HAve been ReFERred     wOUld Be   TrY  eNcOmPAsS          Or  and evEN IF  proCEeD  Extract            danIEl guÉRIN DoEs.    REMAiNs   foRmULAte     . AND     And      RUdOLf rockeR  prEsEntS          TOWARds     BeaR   gUérin’S  PuTS   WElL when  WRITes   iS NoT       fIXeD selFeNcLOSeD .  buT                .     aNd   stRIveS     . .  eXpLOItIng      and     EveN  is    NOT    siNCe  TeNDS constAnTlY  bEcoME  ANd  aFFect           is NoT     BUT      eVerY    BrING        aND     hAS endoWeD  aND tuRn  .    LEsS      iS iNFlUeNceD   OR      ANd LESs FaTALLY grOw  WiLL   beComE   wIlL  BeCOMe             haS grOWN[2]   mIgHt aSk    Is  STUdyINg           doES NoT    AND    iNdeEd .  DiSMISs      Or OtHErwisE          mighT HOWEvEr. ARGue rATHER difFEreNTlY   EVeRy      mUsT bE  dIsmANTle     aND   SuRvIvE    when  migHt. HAVE BeEN jUStiFIeD        oR  or   bUT  NoW ContRibUTe —RATHER  alleViaTe— AnD   iF SO  wIlL Be      fIxeD    AnD  noR alSO BEttEr hEAr eVen NECeSSaRILy   and.      TOwarDs    SHOuLd teND suRELY        or        iS So    fArrEAcHing  muST BE TReATED    JuST   iS   wheN  hEaR    Or     Or      requireS  Or     aND    nEVeRThELess .     IS EverY   DEVeLOP inSOfAr .                         rocKER.    iS set   sImILArly FoRtH arE  is   frEeIng        aND  And   AnD   iS not   ANd     NOr stuLtiFying  BUt ratHer  ReConSTRUct          uP ANd BuiLd  uP           BUT     aRe FItTeD    Since  Are   VAlUeCrEatING          CaN ARIse thEirs mUST Be    freeing         haS fastENEd.    frEEING      ANd    . aND.  OPeNINg.           And  bAsEd    ANd             PrepARe  tOIlIng  alSO foRwarD sAiD   aND   aGo tUrN     AnD  biND  toGEtHEr     Is     AnARchOsyndicAliSm aNd      is  [P 108]     roCkeR wOuLD TaKe  grAntED          IS   uPOn          IS    And      InCLudING  .      [3]         ’  creaTE NOt    BuT ALSO             emBODy        —ANd  loOkS fORwarD      WILL dISmaNtle     weLL       PUt      Is    .     ARe. ConviNced      CAnNOt BE creATEd    AnD     BuT           AnD         is    OVEr      .         .    AnD    are        anD SySTematiCalLy carRy ON  and   
 
 # *...with a little help from Gertrude Stein*
+
+For my [NaNoGenMo 2021](https://github.com/NaNoGenMo/2021) commitment, i'm taking the original Text **"On Anarchism"** by Noam Chomsky from »[The Anachist Library](https://theanarchistlibrary.org/library/noam-chomsky-on-anarchism).
+
+---
 
 Today, many computational procedures for poetry analysis have implemented rules to bring poetry into "a strict form" < which means, to make out of the poetry, the more or less "free vocabulary" an "strict one". 
 
