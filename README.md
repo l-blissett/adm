@@ -158,6 +158,8 @@ But the *dot*, the “*real dot*” is essential for Stein. Especially when it c
 Finally Gertrude Stein comes to the *sentences* which are formed by using the previous one, and to paragraphs. She is writing about her *trials & errors* by bringing together the non-emotional balance of a sentence, with the  emotional balance of the paragraphs, when she tried to make *One* out of it.
 
 # NLP on Anarchism...:
+ 
+ ![](./images/failed.png)
 
 Chapter by Chapter
 
