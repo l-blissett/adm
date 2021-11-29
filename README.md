@@ -164,21 +164,13 @@ Finally Gertrude Stein comes to the *sentences* which are formed by using the pr
 Chapter by Chapter
 
 **The Code:**
-* ./chomsky-on-anarchism_0_Intro.ipynb
-* ./chomsky-on-anarchism_1.ipynb
-* ./chomsky-on-anarchism_2.ipynb
-* ./chomsky-on-anarchism_3.ipynb
-* ./chomsky-on-anarchism_4.ipynb
-* ./chomsky-on-anarchism_5.ipynb
-* ./chomsky-on-anarchism_6_Footnotes.ipynb
+* [./chomsky-on-anarchism_0_Intro.ipynb](https://github.com/l-blissett/adm/blob/main/chomsky-on-anarchism_0_Intro.ipynb)
+* [./chomsky-on-anarchism_1.ipynb](https://github.com/l-blissett/adm/blob/main/chomsky-on-anarchism_1.ipynb)
+* [./chomsky-on-anarchism_2.ipynb](https://github.com/l-blissett/adm/blob/main/chomsky-on-anarchism_2.ipynb)
+* [./chomsky-on-anarchism_3.ipynb](https://github.com/l-blissett/adm/blob/main/chomsky-on-anarchism_3.ipynb)
+* [./chomsky-on-anarchism_4.ipynb](https://github.com/l-blissett/adm/blob/main/chomsky-on-anarchism_4.ipynb)
+* [./chomsky-on-anarchism_5.ipynb](https://github.com/l-blissett/adm/blob/main/chomsky-on-anarchism_5.ipynb)
+* [./chomsky-on-anarchism_6_Footnotes.ipynb](https://github.com/l-blissett/adm/blob/main/chomsky-on-anarchism_6_Footnotes.ipynb)
 
 The Outputs:
-* ./output/Intro.txt
-* ./output/chapter1.txt
-* ./output/chapter2.txt
-* ./output/chapter3.txt
-* ./output/chapter4.txt
-* ./output/chapter5.txt
-* ./output/Footnotes.txt
-
-Run on Binder:
+* [./output/](https://github.com/l-blissett/adm/tree/main/output)
