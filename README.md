@@ -60,7 +60,7 @@ With such seemingly endless repetitions and imperceptible variations of a few wo
 
 1. **Reading steins »Poetry & Grammar (1935)**
 2. **interpret it and try to formalize it in creating simple grammatical rules**
-3. Taking the message **"No Justice No Peace"** from **anonymous Anarchist agency**, who hacked the website of the German police agency in December 2019, see:[anarchistnews.org](https://anarchistnews.org/content/german-police-union-gdp-website-hacked-%E2%80%9Canonymous-anarchist-agency%E2%80%9D-aaa).
+3. Taking the original Text **"On Anarchism"** by Noam Chomsky from »[The Anachist Library](https://theanarchistlibrary.org/library/noam-chomsky-on-anarchism).
 4. **POS-tag it** the *oulipotique* way, in Python with SpaCy
 5. And manipulate the Text step by step:
    1. **prepositions** are usually wrong
